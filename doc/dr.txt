@@ -1,0 +1,24 @@
+ex04
+
+5/10
+
+exo4 -> ex04
+
+(-1) packages @GitHub ?
+pubspec.lock @GitHib ?
+
+(-1) .gitignore ?
+
+pubspec.yaml: dartlero_example
+->
+pubspec.yaml: todo_example
+
+ou
+
+test/todo_model_test.dart:
+(-2) couleur rouge
+import 'package:todo_example/todo_example.dart';
+->
+import 'package:dartlero_example/todo_example.dart';
+
+(-1) seulement 5 tests ?
